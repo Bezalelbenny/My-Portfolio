@@ -497,3 +497,12 @@ footer {
     align-items: center;
   }
 }
+
+.project-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.project-link:hover {
+  color: var(--accent);
+}

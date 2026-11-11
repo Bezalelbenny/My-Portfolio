@@ -127,13 +127,22 @@ function App() {
     </div>
 
     <div className="project-card">
-      <h2>E-commerce Application</h2>
-      <p>
-        A web application with user authentication,
-        admin management and product browsing using
-        React, Express and MySQL.
-      </p>
-      <span>React • Express • MySQL</span>
+      <a
+  href="https://frontend-blush-gamma-62.vercel.app/"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="project-link"
+>
+  <h2>E-commerce Application</h2>
+</a>
+
+<p>
+  A web application with user authentication,
+  admin management and product browsing using
+  React, Express and MySQL.
+</p>
+
+<span>React • Express • MySQL</span>
     </div>
 
     <div className="project-card">
