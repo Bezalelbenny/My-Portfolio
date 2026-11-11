@@ -162,7 +162,7 @@ function App() {
     </a>
 
     <a
-      href="https://github.com/Bezalelbenny/Ecommerce-website"
+      href="https://github.com/Bezalelbenny/Ecommerce-website-using-react"
       target="_blank"
       rel="noopener noreferrer"
     >
