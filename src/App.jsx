@@ -116,15 +116,28 @@ function App() {
 
   <div className="project-container">
 
-    <div className="project-card">
-      <h2>Attendance Tracker</h2>
-      <p>
-        A Flutter-based attendance tracking application
-        that allows users to view student profiles and
-        manage attendance records.
-      </p>
-      <span>Flutter • Dart</span>
-    </div>
+    
+<div className="project-card">
+  <h2>Student Attendance Tracker</h2>
+
+  <p>
+   A Flutter-based student attendance application featuring student lists,
+    present/absent tracking, individual profiles, and circular attendance percentage indicators.
+  </p>
+
+  <span>Python • Flask • SQLite</span>
+
+  <div className="project-links">
+    <a
+      href="https://github.com/Bezalelbenny/Attendance-Tracker-using-Flutter"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      GitHub
+    </a>
+  </div>
+</div>
+
 
     <div className="project-card">
       <a
@@ -145,15 +158,53 @@ function App() {
 <span>React • Express • MySQL</span>
     </div>
 
-    <div className="project-card">
-      <h2>RBAC Form Application</h2>
-      <p>
-        A Flask-based application implementing
-        Role-Based Access Control to manage access
-        according to user roles.
-      </p>
-      <span>Python • Flask</span>
-    </div>
+    
+<div className="project-card">
+  <h2>RBAC Task Management System</h2>
+
+  <p>
+    A role-based task management application
+    with authentication, authorization and
+    CRUD operations using Flask and SQLite.
+  </p>
+
+  <span>Python • Flask • SQLite</span>
+
+  <div className="project-links">
+    <a
+      href="https://github.com/Bezalelbenny/RBAC-Form-Flask-Application"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      GitHub
+    </a>
+  </div>
+  
+</div>
+
+<div className="project-card">
+  <h2>RBAC Task Management System</h2>
+
+  <p>
+    A role-based task management application
+    with authentication, authorization and
+    CRUD operations using Flask and SQLite.
+  </p>
+
+  <span>Python • Flask • SQLite</span>
+
+  <div className="project-links">
+    <a
+      href="https://github.com/Bezalelbenny/RBAC-Form-Flask-Application"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      GitHub
+    </a>
+  </div>
+</div>
+
+
 
     <div className="project-card">
       <h2>AI & Data Science Internship Projects</h2>
