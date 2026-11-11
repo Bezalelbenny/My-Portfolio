@@ -139,24 +139,38 @@ function App() {
 </div>
 
 
-    <div className="project-card">
-      <a
-  href="https://frontend-blush-gamma-62.vercel.app/"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="project-link"
->
+    
+<div className="project-card">
   <h2>E-commerce Application</h2>
-</a>
 
-<p>
-  A web application with user authentication,
-  admin management and product browsing using
-  React, Express and MySQL.
-</p>
+  <p>
+    A full-stack e-commerce application featuring
+    user authentication, admin management,
+    product browsing and customer management
+    using React, Express and MySQL.
+  </p>
 
-<span>React • Express • MySQL</span>
-    </div>
+  <span>React • Express • MySQL</span>
+
+  <div className="project-links">
+    <a
+      href="https://frontend-blush-gamma-62.vercel.app/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Live Demo
+    </a>
+
+    <a
+      href="https://github.com/Bezalelbenny/Ecommerce-website"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      GitHub
+    </a>
+  </div>
+</div>
+
 
     
 <div className="project-card">
