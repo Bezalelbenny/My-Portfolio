@@ -125,7 +125,7 @@ function App() {
     present/absent tracking, individual profiles, and circular attendance percentage indicators.
   </p>
 
-  <span>Python • Flask • SQLite</span>
+  <span>Flutter • Dart</span>
 
   <div className="project-links">
     <a
@@ -196,27 +196,7 @@ function App() {
   
 </div>
 
-<div className="project-card">
-  <h2>RBAC Task Management System</h2>
 
-  <p>
-    A role-based task management application
-    with authentication, authorization and
-    CRUD operations using Flask and SQLite.
-  </p>
-
-  <span>Python • Flask • SQLite</span>
-
-  <div className="project-links">
-    <a
-      href="https://github.com/Bezalelbenny/RBAC-Form-Flask-Application"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      GitHub
-    </a>
-  </div>
-</div>
 
 
 
